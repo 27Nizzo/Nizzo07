@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying in Universidade do Minho.
 - 🌱 I’m currently learning C, Haskell.
-- 📫 How to reach me: instagram: 27nizzo.
+- 📫 How to reach me: instagram: 27nizzo || gmail: afonso.martins8282@gmail.com
 
 <div>
    <a href= "https://github.com/Nizzo07">
