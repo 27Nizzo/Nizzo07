@@ -3,7 +3,7 @@ Im a very very noob programmer so be nice and pacient with me :0.
 
 - 🔭 I’m currently studying in Universidade do Minho.
 - 🌱 I’m currently learning C, Haskell.
-- 📫 How to reach me: instagram: [27nizzo](https://www.instagram.com/27nizzo/) || gmail: afonso.martins8282@gmail.com
+- 📫 How to reach me: instagram: [27nizzo](https://www.instagram.com/27nizzo/) || gmail: afonso.martins8282@gmail.com;
 
 <div>
    <a href= "https://github.com/Nizzo07">
