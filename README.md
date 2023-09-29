@@ -5,6 +5,11 @@ Im a very very noob programmer so be nice and pacient with me :0.
 - 🌱 I’m currently learning C, Haskell;
 - 📫 How to reach me: instagram: [27nizzo](https://www.instagram.com/27nizzo/) || gmail: afonso.martins8282@gmail.com.
 
+  
+## Spotify Playing 🎧
+
+[![Spotify](https://Nizzo.app/api/spotify)](https://open.spotify.com/user/Nizzo)
+
 <div>
    <a href= "https://github.com/Nizzo07">
    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Nizzo07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
