@@ -7,8 +7,7 @@ Im a very very noob programmer so be nice and pacient with me :0.
 
   
 ## Spotify Playing 🎧
-
-[![Spotify](https://21mwm35wzhnmusvcatjdoheoq.app/api/spotify)](https://open.spotify.com/user/21mwm35wzhnmusvcatjdoheoq)
+[![Spotify](https://carricossauro.vercel.app/api/spotify)](https://open.spotify.com/user/tiarrico)
 ![Now Playing on Spotify](https://www.example.com/your-now-playing-card-image-url)
 
 <div>
