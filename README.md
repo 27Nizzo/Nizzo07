@@ -8,7 +8,7 @@ Im a very very noob programmer so be nice and pacient with me :0.
   
 ## Spotify Playing 🎧
 
-[![Spotify](https://Nizzo.app/api/spotify)](https://open.spotify.com/user/Nizzo)
+[![Spotify](https://21mwm35wzhnmusvcatjdoheoq.app/api/spotify)](https://open.spotify.com/user/21mwm35wzhnmusvcatjdoheoq)
 
 <div>
    <a href= "https://github.com/Nizzo07">
