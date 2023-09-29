@@ -11,6 +11,7 @@ Im a very very noob programmer so be nice and pacient with me :0.
 ![Now Playing on Spotify](https://lastfm.freetls.fastly.net/i/u/nizzo_07.png)
 
 
+
 <div>
    <a href= "https://github.com/Nizzo07">
    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Nizzo07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
