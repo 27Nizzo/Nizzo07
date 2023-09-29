@@ -7,7 +7,7 @@ Im a very very noob programmer so be nice and pacient with me :0.
 
   
 ## Spotify Playing 🎧
-[![Spotify](https://carricossauro.vercel.app/api/spotify)](https://open.spotify.com/user/tiarrico)
+[![Spotify](https://Nizzo07.vercel.app/api/spotify)](https://open.spotify.com/user/21mwm35wzhnmusvcatjdoheoq)
 ![Now Playing on Spotify](https://lastfm.freetls.fastly.net/i/u/nizzo_07.png)
 
 
