@@ -8,7 +8,8 @@ Im a very very noob programmer so be nice and pacient with me :0.
   
 ## Spotify Playing 🎧
 [![Spotify](https://carricossauro.vercel.app/api/spotify)](https://open.spotify.com/user/tiarrico)
-![Now Playing on Spotify](https://www.example.com/your-now-playing-card-image-url)
+![Now Playing on Spotify](https://lastfm.freetls.fastly.net/i/u/your-lastfm-username.png)
+
 
 <div>
    <a href= "https://github.com/Nizzo07">
