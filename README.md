@@ -1,4 +1,4 @@
-### Hi there 👋! My name is Afonso but you can call me Nizzo :).
+### Hi there 👋! My name is Afonso but you can call me Nizzo :P
 Im a very very noob programmer so be nice and pacient with me :0.
 
 - 🔭 I’m currently studying at Universidade do Minho.
