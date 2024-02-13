@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nizzo!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Portugal</h3>
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
 <br/>
 
@@ -14,7 +14,8 @@
  
 🌱 I’m currently learning **Python, Java, C**
 
-💬 How to reach me:    <a href="https://instagram.com/27nizzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+💬 How to reach me: 
+   <a href="https://instagram.com/27nizzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:afonso.martins8282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="nizzo07"></a>
 
 ⚡ Fun fact **I love the show: How I Met Your Mother**
@@ -26,8 +27,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=haskell,vscode,github,git,ubunto" />
 </div>
 
 <br/>
@@ -64,6 +64,5 @@
 
 <br/>
 
-   
 
 
