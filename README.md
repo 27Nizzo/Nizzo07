@@ -1,8 +1,7 @@
-### Hi there 👋! My name is Afonso but you can call me Nizzo :P
-Im a very noob programmer so be nice and patient with me :0.
+### Hi there 👋! My name is Afonso but you can call me Nizzo :D
 
-- 🔭 I’m currently studying at Universidade do Minho.
-- 🌱 I’m currently learning C, Haskell;
+- 🔭 I’m currently studying at Computer Science ate Universidade do Minho.
+- 🌱 I’m currently learning C, Python and Java;
 - 📫 How to reach me: instagram: [27nizzo](https://www.instagram.com/27nizzo/) || gmail: afonso.martins8282@gmail.com.
 
 <div>
