@@ -4,6 +4,15 @@
 - 🌱 I’m currently learning C, Python and Java;
 - 📫 How to reach me: instagram: [27nizzo](https://www.instagram.com/27nizzo/) || gmail: afonso.martins8282@gmail.com.
 
+## Skills:
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+
+
+## Tools: 
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
 <div>
    <a href= "https://github.com/Nizzo07">
    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Nizzo07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
