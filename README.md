@@ -11,6 +11,7 @@
 ## Tools: 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Ubunto](https://img.shields.io/badge/ubunto-35BF5C?style=for-the-badge&logo=ubunto&logoColor=white)
 
 
 <div>
