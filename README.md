@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🔭 I’m currently on my 2nd year studying Computer Science at **Universidade do Uminho**
+🔭 I’m currently on my 3º year studying Computer Science at **Universidade do Uminho**
  
-🌱 I’m currently learning **Python, Java, C**
+🌱 I’m currently learning **Python, Java, C, React**
 
 💬 How to reach me: 
    
