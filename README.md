@@ -6,10 +6,6 @@
 
 <h3 align="center">I'm a CS student from Portugal</h3>
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@afonso755753162/30-nites-of-code)  
-  ![@afonso755753162 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=afonso755753162)
-
 <br/>
 
 <div align="center">
@@ -57,6 +53,9 @@
 <div align="center">
 <a  target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
+
+  
+  ![@afonso755753162 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=afonso755753162)
 
 <br/>
 
