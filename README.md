@@ -28,9 +28,19 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=haskell,python,html,css,vscode,github,git,linux
-        " />
+  <img src="https://img.shields.io/badge/Language-Portuguese-green" alt="Language: Portuguese" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue" alt="Editor: VS Code" />
+  <img src="https://img.shields.io/badge/OS-WSL-yellowgreen" alt="OS: WSL" />
+  <img src="https://img.shields.io/badge/Programming-Python-blue" alt="Programming: Python" />
+  <img src="https://img.shields.io/badge/HTML5-Web-orange" alt="HTML5: Web" />
+  <img src="https://img.shields.io/badge/CSS3-Style-blue" alt="CSS3: Style" />
+  <img src="https://img.shields.io/badge/Database-MySQL-orange" alt="Database: MySQL" />
+  <img src="https://img.shields.io/badge/Markdown-Documentation-lightgrey" alt="Markdown: Documentation" />
+  <img src="https://img.shields.io/badge/LaTeX-Document%20Preparation-blueviolet" alt="LaTeX: Document Preparation" />
+  <img src="https://img.shields.io/badge/Haskell-Functional%20Programming-purple" alt="Haskell: Functional Programming" />
 </div>
+
+
 
 <br/>
 <hr/>
